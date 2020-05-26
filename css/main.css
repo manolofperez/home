@@ -225,20 +225,24 @@
   padding: 0;
 }
 
-.social-icons ul li a:hover .fa-facebook {
+.social-icons ul li a:hover .ai-lattes {
   color:#0884d5;
+}
+
+.social-icons ul li a:hover .ai-researchgate {
+  color:#14CDBC;
 }
 
 .social-icons ul li a:hover .fa-twitter {
   color:#2AA7DC;
 }
 
-.social-icons ul li a:hover .fa-google-plus {
+.social-icons ul li a:hover .ai-google-scholar-square {
   color:#A22523;
 }
 
-.social-icons ul li a:hover .fa-dribbble {
-  color:#E94989;
+.social-icons ul li a:hover .fa-github {
+  color:#000000;
 }
 
 .social-icons ul li a:hover .fa-linkedin {
