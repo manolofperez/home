@@ -547,10 +547,12 @@ ul.sub-menu {
 }
 
 #home-slider .slide-text{
-  position: absolute;
-  top: 50px;
+  display:inline-block;
+  position: relative;
+  top: 0px;
   left: 0;
-  width: 500px;
+  width: 50%;
+  bottom: 0;
 }
 
 .animate-in .slide-text {
@@ -559,8 +561,8 @@ ul.sub-menu {
 }
 
 #home-slider .slider-hill {
-  position: absolute;
-  right: -30px;
+    display:inline-block;
+	position: absolute;
   bottom: 0;
 }
 
