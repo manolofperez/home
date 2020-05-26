@@ -82,7 +82,7 @@
   }
 
   #home-slider {
-    margin-top: 30px;
+    margin-top: 0px;
   }
 
   #home-slider .main-slider {
@@ -90,7 +90,7 @@
   }
 
   #home-slider .slide-text {
-    top: 0;
+    top: -50px;
     width: 50%;
   }
 
@@ -99,7 +99,7 @@
   }
 
   #home-slider .slider-hill {
-    width: 400px;
+    width: 100%;
   }
 
   #home-slider .slider-house {
@@ -282,7 +282,7 @@
   }
 
   #home-slider .slide-text {
-    top: 0;
+    top: -50px;
     width: 100%;
     text-align: center;
   }

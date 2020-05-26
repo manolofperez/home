@@ -549,7 +549,7 @@ ul.sub-menu {
 #home-slider .slide-text{
   display:inline-block;
   position: relative;
-  top: 0px;
+  top: -10%;
   left: 0;
   width: 50%;
   bottom: 0;
