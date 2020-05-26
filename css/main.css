@@ -472,6 +472,7 @@ ul.sub-menu {
 
 .contact-info.bottom {
   padding-left: 25px;
+  display:inline-block;
 }
 
 .bottom > address {
