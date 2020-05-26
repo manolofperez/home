@@ -15,7 +15,7 @@
     background: #fff;
     font-family: 'Lato', sans-serif;
     font-weight: 300;
-    font-size: 14px;
+    font-size: 17px;
     line-height: 22px;
     color: #000;
   }
@@ -645,8 +645,7 @@ ul.sub-menu {
 }
 
 #action {
-  background-image: url(../images/home/tour-bg.png);
-  background-color: #fbfafa;
+  background-image: url(../images/home/plant-slider.png);
   background-repeat: repeat-x;
   height: 157px;
   background-position: center;
