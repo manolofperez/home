@@ -172,7 +172,11 @@
 
 #header{
   margin-bottom: 0;
-  padding: 30px 0 60px 0;
+  background-color: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 4000;
 }
 
 #header .navbar-inverse .container{
@@ -544,6 +548,7 @@ ul.sub-menu {
 #home-slider {
   background: url() 0 100% repeat-x;
   position: relative;
+  margin-top:200px;
 }
 
 #home-slider .main-slider {
