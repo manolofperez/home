@@ -169,6 +169,7 @@
 
 
 #header{
+  padding-top:10px;
   margin-bottom: 0;
   background-color: white;
   position: fixed;
