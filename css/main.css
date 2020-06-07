@@ -11,16 +11,14 @@
   @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700);
   @import url(http://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 
-  body {
+  body, html {
+    padding-top:100px;
     background: #fff;
     font-family: 'Lato', sans-serif;
     font-weight: 300;
     font-size: 17px;
     line-height: 22px;
     color: #000;
-  }
-
-  html {
     height: 100%;
   }
 
@@ -548,7 +546,6 @@ ul.sub-menu {
 #home-slider {
   background: url() 0 100% repeat-x;
   position: relative;
-  margin-top:200px;
 }
 
 #home-slider .main-slider {
